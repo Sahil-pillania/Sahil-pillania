@@ -1,3 +1,6 @@
+<img src="https://www.solutionsplayer.com/wp-content/uploads/2021/02/Web_Design_and_Development.jpg" width="44px" />
+
+
 <h1 align="center">Hi 👋, I'm SaHil PiLLaNiA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
