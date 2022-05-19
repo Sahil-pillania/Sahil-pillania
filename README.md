@@ -5,7 +5,8 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 
-<p align="center" ><img  alt="Coding" width="350" src="https://user-images.githubusercontent.com/80634110/168861158-859c31d2-9f01-4452-9b6c-b38e0c2a5171.gif" alt="sahil-pillania" /></p>
+<p align="center" ><img  alt="Coding" width="350" src="https://user-images.githubusercontent.com/80634110/169353778-7915a50a-54da-45b7-8c46-6d101398a16d.gif" alt="sahil-pillania" /></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-pillania&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-pillania" /> </p>
