@@ -11,8 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-pillania&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-pillania" /> </p>
 
-- 🔭 I’m currently working on [AMS(Assessment management system)](https://github.com/Sahil-pillania/Project_1_AMS)
-- - 🔭 and [iNotebook app (React)](https://github.com/Sahil-pillania/react_inotebook)
+- 🔭 I recently worked on [AMS(Assessment management system)](https://github.com/Sahil-pillania/Project_1_AMS)
+- - 🔭 I’m currently working on [iNotebook app (React)](https://github.com/Sahil-pillania/react_inotebook)
 
 - 🌱 I’m currently learning **MEAN, MERN**
 
