@@ -12,7 +12,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-pillania&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-pillania" /> </p>
 
 - 🔭 I recently worked on [AMS(Assessment management system)](https://github.com/Sahil-pillania/Project_1_AMS)
-- - 🔭 I’m currently working on [iNotebook app (React)](https://github.com/Sahil-pillania/react_inotebook)
+- - 🔭 I’m currently working on [iNotebook app (MERN Stack)](https://github.com/Sahil-pillania/react_inotebook)
+- - - 🔭 I’m currently working on [ MERN Stack ]
 
 - 🌱 I’m currently learning **MEAN, MERN**
 
@@ -26,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahilpillania48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilpillania48" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahil pillania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil pillania" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-pillania-297a84213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil pillania" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sahil_pillania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil_pillania" height="30" width="40" /></a>
 </p>
 
