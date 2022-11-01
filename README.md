@@ -13,7 +13,7 @@
 
 - 🔭 I recently worked on [AMS(Assessment management system)](https://github.com/Sahil-pillania/Project_1_AMS)
 - - 🔭 I’m currently working on [iNotebook app (MERN Stack)](https://github.com/Sahil-pillania/react_inotebook)
-- - - 🔭 I’m currently working on [ MERN Stack ]
+- - - 🔭 I’m currently working on MERN Stack. 
 
 - 🌱 I’m currently learning **MEAN, MERN**
 
