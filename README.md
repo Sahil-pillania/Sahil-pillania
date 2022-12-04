@@ -12,10 +12,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-pillania&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-pillania" /> </p>
 
 - 🔭 I recently worked on [AMS(Assessment management system)](https://github.com/Sahil-pillania/Project_1_AMS)
-- - 🔭 I’m currently working on [iNotebook app (MERN Stack)](https://github.com/Sahil-pillania/react_inotebook)
-- - - 🔭 I’m currently working on MERN Stack. 
+- - 🔭 I recently worked on [iNotebook app (MERN Stack)](https://github.com/Sahil-pillania/react_inotebook)
+- - - 🔭 I’m currently learning Next js. 
 
-- 🌱 I’m currently learning **MEAN, MERN**
+- 🌱 I’m currently learning **MEAN, MERN stack**
 
 - 👨‍💻 All of my projects are available at [on this github account](on this github account)
 
