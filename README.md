@@ -13,7 +13,7 @@ src="https://user-images.githubusercontent.com/80634110/206498885-97659cc3-8ac6-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-pillania&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-pillania" /> </p>
 
-- 🔭 I recently worked on [AMS(Assessment management system)](https://github.com/Sahil-pillania/Project_1_AMS)
+- 🔭 I recently worked on [AMS(Assessment management system)](https://github.com/Sahil-pillania/Project_1_AMS) (PHP & Javascript)
 - - 🔭 I recently worked on [iNotebook app (MERN Stack)](https://github.com/Sahil-pillania/react_inotebook)
  
 - 🌱 I’m currently learning **Next js, MERN stack**
