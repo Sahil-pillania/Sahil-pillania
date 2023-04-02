@@ -18,7 +18,7 @@ src="https://user-images.githubusercontent.com/80634110/206498885-97659cc3-8ac6-
  
 - 🌱 I’m currently learning **Next js, MERN stack**
 
-- 👨‍💻 All of my projects are available at [on this github account](on this github account)
+- 👨‍💻 All of my projects are available at (on this github account)
 
 - 💬 Ask me about **MEAN, MERN, Web development, full stack development**
 
