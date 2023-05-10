@@ -3,10 +3,10 @@
 
 
 <h1 align="center">Hi 👋, I'm SaHiL PiLLaNiA</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">❄️ A passionate Web Developer from India ❄️</h3>
 
 
-<p align="center" ><img  alt="Coding" width="350" src="https://user-images.githubusercontent.com/80634110/169353778-7915a50a-54da-45b7-8c46-6d101398a16d.gif" alt="sahil-pillania" /></p>
+<p align="center" ><img  alt="Coding" width="350"  src="https://user-images.githubusercontent.com/80634110/169353778-7915a50a-54da-45b7-8c46-6d101398a16d.gif" alt="sahil-pillania" /></p>
 
 <img 
 src="https://user-images.githubusercontent.com/80634110/206498885-97659cc3-8ac6-47af-8647-22ccd22849c6.jpg"/>
