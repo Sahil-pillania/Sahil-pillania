@@ -16,7 +16,7 @@ src="https://user-images.githubusercontent.com/80634110/206498885-97659cc3-8ac6-
 - 🔭 I recently worked on [AMS(Assessment management system)](https://github.com/Sahil-pillania/Project_1_AMS) (PHP & Javascript)
 - - 🔭 I recently worked on [iNotebook app (MERN Stack)](https://github.com/Sahil-pillania/react_inotebook)
  
-- 🌱 I’m currently learning **Next js, MERN stack**
+- 🌱  **Next js, MERN stack, MEAN stack**
 
 - 👨‍💻 All of my projects are available at (on this github account)
 
