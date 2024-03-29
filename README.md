@@ -15,13 +15,13 @@ src="https://user-images.githubusercontent.com/80634110/206498885-97659cc3-8ac6-
 
 - 🔭 Learning Flutter for Native📲 App🏠 Development💻.
 - 🔭 I recently worked on Native mobile app📱 JIMMI developed using React native❄️.
-- 🔭 I recently worked on [AMS(Assessment management system)](https://github.com/Sahil-pillania/Project_1_AMS) (PHP & Javascript)
+- 🔭 I recently worked on [AMS(Assessment management system)](https://github.com/Sahil-pillania/Project_1_AMS) (PHP & Javascript).
  
-- 🌱  **Next js, MERN stack, MEAN stack**
+- 🌱  **Next js, MERN stack, MEAN stack**💻.
 
-- 👨‍💻 All of my projects are available at (on this github account)
+- 👨‍💻 All of my projects are available at (on this github account).
 
-- 💬 Ask me about **MEAN, MERN, Web development, full stack development**
+- 💬 Ask me about **MEAN, MERN, Web development, full stack development**.
 
 - 📫 How to reach me **sahilpillania88@gmail.com**
   
